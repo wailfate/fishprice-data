@@ -1,0 +1,1 @@
+{"asOf":"2026-09-19","note":"업체 광고 게시(관리자). 항목: id·name·kind(횟집|도매|양식|가공|택배)·region·line(한 줄)·url·phone·from·to. publish.py 가 data/public/partners.json 으로 복사한다.","items":[]}
